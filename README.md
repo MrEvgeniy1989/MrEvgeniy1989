@@ -1,4 +1,7 @@
-<h1 align="center" style="color:#39d253" >Hi! I am Evgenii Slupachik</h1>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=39D253&center=true&vCenter=true&repeat=false&width=600&height=35&lines=Hello!+I+am+Evgenii+Slupachik)](https://git.io/typing-svg)
+</div>
 <h3 align="center">Front-end Developer</h3>
 
 <hr>
