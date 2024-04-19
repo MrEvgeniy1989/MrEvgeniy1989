@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/evgenii-slupachik/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-darkgreen?style=for-the-badge&logo=linkedin&color=forestgreen&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/mrEvgeniy1989" target="_blank">
+  <a href="https://t.me/evgenii_frontend_developer" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-darkgreen?style=for-the-badge&logo=telegram&color=forestgreen&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="mailto:mr.evgeniy1989@yandex.ru" target="_blank">
